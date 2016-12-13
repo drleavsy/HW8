@@ -1,0 +1,7 @@
+c:\users\drleavsy\documents\visual studio 2015\Projects\Little Jarvis\Little Jarvis\bin\Debug\Little Jarvis.exe.config
+c:\users\drleavsy\documents\visual studio 2015\Projects\Little Jarvis\Little Jarvis\bin\Debug\Little Jarvis.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\Little Jarvis\Little Jarvis\bin\Debug\Little Jarvis.pdb
+c:\users\drleavsy\documents\visual studio 2015\Projects\Little Jarvis\Little Jarvis\obj\Debug\Little Jarvis.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\Little Jarvis\Little Jarvis\obj\Debug\Little Jarvis.pdb
+C:\Users\drleavsy\documents\visual studio 2015\Projects\Little Jarvis\Little Jarvis\bin\Debug\InputSimulator.dll
+C:\Users\drleavsy\documents\visual studio 2015\Projects\Little Jarvis\Little Jarvis\obj\Debug\Little Jarvis.csprojResolveAssemblyReference.cache
